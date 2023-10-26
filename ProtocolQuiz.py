@@ -3,9 +3,8 @@ import random
 #You need to run Python3 and use the pip3 moudule to download the random generatr module and pandas module"
 #search google how to run Py File, pandas module, random generator
 
-#A Quick Poem
 #if necessary you should only need to learn something once
-#if necessary keep learning untill ingraned, irony - Preston C
+#if necessary keep learning untill ingraned, irony
 
 #This uses pandas (pd) read comma seperated value sheet module
 prototable = pd.read_csv('Messer.csv') 
